@@ -4,26 +4,40 @@ Repository for CS 207 Project files
 This project is a six-fader control surface to be used with Logic Pro X (or other Digital Audio Workstations). It is based off of a previously made project by user DaniElectronics on Hackster.io. The project is USB powered, runs off the Arduino Uno, and is tailored to the MacOS. A wooden enclosure was designed and built for it. This material was chosen for aesthetic reasons but also durability. Some soldering of the components is required in order for them to be utilized with the breadboard. On the software side, a program installation (Hairless MIDI to Serial Bridge) is needed in addition to the Arduino IDE. The Arduino MIDI Library is also used. 
 
 **Pic of completed project**
+![alt text](https://github.com/AnikaZak/CS-207-Project-/blob/img/image.jpg?raw=true)
 
 Requirements and Materials 
 
-Dependencies: 
+Dependencies:
+
 The Hairless MIDI to Serial Bridge: https://projectgus.github.io/hairless-midiserial/
+
 Arduino MIDI Library: https://playground.arduino.cc/Main/MIDILibrary/ 
+
 Digital Audio Workstation (like Logic Pro X)
 
 Bill of Materials
 
-6 x 11K Ohm sliding potentiometers 
+6 x 11K Ohm sliding potentiometers
+
 6 x 560 Ohm resistors 
+
 20 x Jumper wires 
+
 1 x Breadboard 
+
 1 x Arduino Uno
+
 1 x (2 x 3 feet) Sheet of plywood
+
 1 x Soldering station
+
 1 x Solder wire
+
 1 x Solder flux
+
 1 x Wood chisel, hammer, and other tools
+
 1 x Wood glue
 
 Build Instructions 
